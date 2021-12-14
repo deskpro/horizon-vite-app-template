@@ -1,7 +1,7 @@
 Deskpro Horizon App Template
 ===
 
-This repository contains a bare-bones template of a React/Typescript Vite app with our apps SDK pre-installed and 
+This repository contains a bare-bones template of a [React](https://reactjs.org/) / [Typescript](https://www.typescriptlang.org/) [Vite](https://vitejs.dev/) app with our apps SDK pre-installed and 
 configured.
 
 Basic Usage
