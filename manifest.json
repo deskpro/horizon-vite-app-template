@@ -14,7 +14,7 @@
       "title": "Example Setting",
       "description": "Example backend only setting",
       "type": "string",
-      "isRequired": true,
+      "isRequired": false,
       "isBackendOnly": true
     }
   },
