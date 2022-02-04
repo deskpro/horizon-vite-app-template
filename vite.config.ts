@@ -13,7 +13,7 @@ export default defineConfig({
           hook: "writeBundle",
           targets: [
             { src: "./manifest.json", dest: "./dist/" },
-            { src: "./README.md", dest: "./dist/" },
+            { src: "./DESCRIPTION.md", dest: "./dist/README.md" },
             { src: "./icon.svg", dest: "./dist/" },
           ],
         }),
